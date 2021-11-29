@@ -1,3 +1,7 @@
+
+Hello, My Name is Lina Hourieh
+
+
 - 👋 Hi, I’m @linahourieh
 - 👀 I’m interested in Neuroscience 
 - 🌱 I’m currently learning Python, data analysis and machine learning
