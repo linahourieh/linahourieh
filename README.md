@@ -1,15 +1,36 @@
-<h1 align="center">Halo 👋, I'm Lina Hourieh</h1>
-<h3 align="center">A young Neuroscience student 👩🏻‍🔬 exploring the "AI jungle" 🌴🤖🎋</h3>
+<h1>Hello There 👋</h1>
 
-- 🌱 I’m currently learning AI through **MDSF 1-year-AI-scholarship**
+I'm Lina, a self-taught data analyst and AI enthusiast from Lebanon 🇱🇧.
 
-- 👯 I’m looking to collaborate on **ML projects(any type)**
 
-- 💬 Ask me about **Neuroscience, brain and some easy AI questions 😸**
+🌟 **About Me in 30 Secs**
+- 👩🏻‍🔬  A young Neuroscience graduate exploring the "AI jungle" 🌴🤖🎋
+- 📊  Transitioning to the data field since **September 2020**
+- 👩🏽‍🏫  I Enjoy the math and analysis part of any project.
+- 📝  I spend my time learning new skills. I taught myself Python and other cool tools.
+- 💬  Ask me about **Neuroscience, brain and some easy AI questions 😸**
+- 👯 I’m looking for an internship in **Data Analytics & Medical Field (Neuro)**
+- 📫 How to reach me **lina.ah.hourieh@gmail.com**
 
-- 📫 How to reach me **lina73193@gmail.com**
 
-- ⚡ Fun fact **I love playing PUBG**
+💡 **Core Competencies**
+
+- Tools: Python, Pandas, Excel, Google Sheets, Numpy, Plotly, Seaborn, Git
+- Skills: Writing Python Scripts, Data Analysis, Visualization, General Analysis and Statistical Tests
+
+📚 **Projects & Guides**
+
+- Click HERE for my projects and guides.
+
+🧮 **Currently Learning**
+
+I’m currently learning AI through **MDSF 1-year-AI-scholarship** and **Coursera** 🌱:
+
+- Google Data Analytics Professional [Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️ 
+- IBM Machine Learning Professional [Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) 🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+- Google Data Analytics Professional [Certificate](https://www.coursera.org/specializations/deep-learning) ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
