@@ -28,8 +28,10 @@ I’m currently learning AI through **MDSF 1-year-AI-scholarship** and **Courser
 
 - Google Data Analytics Professional [Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪️ 
 - IBM Machine Learning Professional [Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) 🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
-- Google Data Analytics Professional [Certificate](https://www.coursera.org/specializations/deep-learning) ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+- Deep Learning AI [Certificate](https://www.coursera.org/specializations/deep-learning) ⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
 
+Others
+- The Ultimate Git Course [CodeWithMosh](https://codewithmosh.com/courses?query=git) 🔵🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️
 
 
 
