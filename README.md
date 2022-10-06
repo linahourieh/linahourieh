@@ -9,14 +9,14 @@ I'm Lina, a self-taught data analyst and AI enthusiast from Lebanon 🇱🇧.
 - 👩🏽‍🏫  I Enjoy the math and analysis part of any project.
 - 📝  I spend my time learning new skills. I taught myself Python and other cool tools.
 - 💬  Ask me about **Neuroscience, brain and some easy AI questions 😸**
-- 👯  I’m looking for an internship in **Data Analytics & Medical Field (Neuro)**
+- 👯  I’m looking for an internship that **helps me understand better machine learning development and deployment**
 - 📫  How to reach me **lina.ah.hourieh@gmail.com**
 
 
 💡 **Core Competencies**
 
-- Tools: Python, Pandas, Excel, Google Sheets, Numpy, Plotly, Seaborn, Git
-- Skills: Writing Python Scripts, Data Analysis, Visualization, General Analysis and Statistical Tests
+- Tools: Python, Pandas, Excel, Google Sheets, Numpy, Plotly, Seaborn, Git, sklearn, tensorflow, linux terminal ...
+- Skills: Writing Python Scripts, Data Analysis, Visualization, General Analysis, Statistical Tests and build effective machine learning models.
 
 📚 **Projects & Guides**
 
@@ -26,14 +26,13 @@ I'm Lina, a self-taught data analyst and AI enthusiast from Lebanon 🇱🇧.
 
 I’m currently learning AI through **MDSF 1-year-AI-scholarship** and **Coursera** 🌱:
  
-- Applied Data Science with Python Specialization [Link](https://www.coursera.org/specializations/data-science-python) 🔵🔵⚪️⚪⚪️⚪
+- TensorFlow Developer Professional Certificate [Link](https://www.deeplearning.ai/courses/tensorflow-developer-professional-certificate/) 🔵🔵⚪️⚪⚪️⚪
 
-
-Others
-- Deep Learning AI [Link](https://www.coursera.org/specializations/deep-learning) ⚪️⚪️⚪️⚪️⚪️
 
 🧮 **Courses that I finished**
 
+- Deep Learning AI [Link](https://www.coursera.org/specializations/deep-learning)
+- Applied Data Science with Python Specialization [Link](https://www.coursera.org/specializations/data-science-python)
 - Google Data Analytics Professional [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UN4WYA6M2PXK)
 - The Ultimate Git Course [Link](https://codewithmosh.com/courses?query=git)
 
