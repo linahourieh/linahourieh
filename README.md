@@ -18,15 +18,15 @@ I'm Lina, a self-taught data analyst and AI enthusiast from Lebanon 🇱🇧.
 - Tools: Python, Pandas, Excel, Google Sheets, Numpy, Plotly, Seaborn, Git, sklearn, tensorflow, linux terminal ...
 - Skills: Writing Python Scripts, Data Analysis, Visualization, General Analysis, Statistical Tests and build effective machine learning models.
 
-📚 **Projects & Guides**
+📚 **My Medium Blogs**
 
-- Click HERE for my projects and guides.
+- [Shortcuts over Signals](https://medium.com/@lina73193/shortcuts-over-signal-96339f3b162c)
 
 🧮 **Currently Learning**
 
 I’m currently learning AI through **MDSF 1-year-AI-scholarship** and **Coursera** 🌱:
  
-- TensorFlow Developer Professional Certificate [Link](https://www.deeplearning.ai/courses/tensorflow-developer-professional-certificate/) 🔵🔵⚪️⚪⚪️⚪
+- TensorFlow Developer Professional Certificate [Link](https://www.deeplearning.ai/courses/tensorflow-developer-professional-certificate/) 🔵🔵🔵🔵⚪
 
 
 🧮 **Courses that I finished**
