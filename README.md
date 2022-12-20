@@ -1,6 +1,6 @@
 <h1>Hello There 👋</h1>
 
-I'm Lina, a self-taught data analyst and AI enthusiast from Lebanon 🇱🇧.
+I'm Lina, a self-taught data analyst and AI enthusiast from Lebanon 🇱🇧 and residing in Germany 🇩🇪.
 
 
 🌟 **About Me in 30 Secs**
